@@ -12,7 +12,7 @@ title                    : "SSLIAOAO / Site ...."
 title_separator          : "-"
 name                     : &name "SSLIAOAO"
 description              : &description "personal description"
-url                      : https://vigilant-doodle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://scliao47.github.io/vigilant-doodle.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "scliao47/vigilant-doodle.github.io"
 
