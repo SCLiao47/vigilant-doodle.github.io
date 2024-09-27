@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: 'This paper is just part of the GitHub demo.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/CDC_2024__FINAL___Robust_Online_Convex_Optimization_for_Disturbance_Rejection.pdf'
+paperurl: 'http://scliao47.github.io/vigilant-doodle.github.io/files/CDC_2024__FINAL___Robust_Online_Convex_Optimization_for_Disturbance_Rejection.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
